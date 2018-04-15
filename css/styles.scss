@@ -1,0 +1,18 @@
+---
+# Comments
+---
+
+
+@import url(https://fonts.googleapis.com/css?family=Ubuntu|Space+Mono:400italic,400italic,400,400);
+
+$space-mono: 'Space Mono', monospace;
+$ubuntu: 'Ubuntu', monospace;
+body, #header, nav, #menu, #banner{
+  font-family: $ubuntu;
+  font-weight: normal;
+
+}
+
+footer {
+    font-family: $space-mono;
+}

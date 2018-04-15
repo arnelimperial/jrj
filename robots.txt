@@ -1,0 +1,16 @@
+User-agent:*
+Disallow:
+Disallow: /admin
+Disallow: /secure/file.html
+Disallow: /*?
+Disallow: /private*/
+Disallow: /*.php$
+Disallow: /private_file.html
+
+User-agent: googlebot
+Craw-delay: 2
+Disallow: /cgi-bin/weather1
+Disallow: /cgi-bin/weather1/hv3.cgi
+
+
+Sitemap: http://localhost:4000/sitemap.xml
