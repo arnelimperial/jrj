@@ -1,16 +1,5 @@
-User-agent:*
-Disallow:
-Disallow: /admin
-Disallow: /secure/file.html
-Disallow: /*?
-Disallow: /private*/
-Disallow: /*.php$
-Disallow: /private_file.html
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
 
-User-agent: googlebot
-Craw-delay: 2
-Disallow: /cgi-bin/weather1
-Disallow: /cgi-bin/weather1/hv3.cgi
-
-
-Sitemap: http://localhost:4000/sitemap.xml
+User-agent: *
+Sitemap: {{ site.url }}/sitemap.xml
