@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Our Cafe
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'This is our cafe's about us webpage.'
 image: assets/images/arches-architecture-bar-305832.jpg
 nav-menu: true
 changefreq: monthly
@@ -55,7 +55,7 @@ changefreq: monthly
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="about.html" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">

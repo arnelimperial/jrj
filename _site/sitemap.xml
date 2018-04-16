@@ -4,6 +4,18 @@
  
     
  
+    
+ 
+    
+ 
+    
+ 
+    
+ 
+    
+ 
+    
+ 
 
 
  
@@ -19,7 +31,17 @@
  
     
         <url>
-  <loc>https://arnelimperial.github.io  /about.html</loc>
+  <loc>https://arnelimperial.github.io  /all_posts.html</loc>
+  
+  
+</url>
+
+    
+
+ 
+    
+        <url>
+  <loc>https://arnelimperial.github.io  /generic.html</loc>
   
   
 </url>
@@ -32,26 +54,13 @@
   <loc>https://arnelimperial.github.io  /</loc>
   
   
-
     <priority>1.0</priority>
   
-
 </url>
 
     
 
  
-    
-        <url>
-  <loc>https://arnelimperial.github.io  /landing.html</loc>
-  
-
-    <changefreq>monthly</changefreq>
-  
-
-  
-</url>
-
     
 
  
