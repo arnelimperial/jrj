@@ -70,6 +70,7 @@ DEPENDENCIES
   jekyll (~> 3.7.3)
   jekyll-feed (~> 0.6)
   jekyll-seo-tag
+
   tzinfo-data
   wdm (~> 0.1.0)
 
