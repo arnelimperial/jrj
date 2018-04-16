@@ -4,7 +4,7 @@
 
 	#banner {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("../images/arches-architecture-bar-305832.jpg")');
+		@include vendor('background-image', 'url("/assets/images/arches-architecture-bar-305832.jpg")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
