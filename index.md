@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: Home
+title: Homepage
 landing-title: Welcome to our humble beginning. Come and dine with us.
 description: For Food and Coffee lovers alike. Welcome to JRJ Cafe’s website.
 image: /assets/images/arches-architecture-bar-305832.jpg
