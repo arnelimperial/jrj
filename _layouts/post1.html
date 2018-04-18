@@ -19,14 +19,11 @@
 <!-- One -->
 <section id="one">
 	<div class="inner">
-                {% for post in site.posts %}
 		<header class="major">
-			<h1>{{ post.title }}</h1>
+			<h1>{{ page.title }}</h1>
 		</header>
-		{% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-
-		<p>{{ post.content }}</p>
-                {% endfor %}
+		{% if page.image %}<span class="image main w3-card-4 w3-hover-grayscale"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+		<p>{{ content }}</p>
 	</div>
 </section>
 

@@ -1,13 +1,13 @@
 ---
-# Comments
+
 ---
 
 
-@import url(https://fonts.googleapis.com/css?family=Ubuntu|Space+Mono:400italic,400italic,400,400);
+@import url(https://fonts.googleapis.com/css?family=Space+Mono|Ubuntu:400italic,400italic,400,400);
 
 $space-mono: 'Space Mono', monospace;
 $ubuntu: 'Ubuntu', monospace;
-body, #header, nav, #menu, #banner{
+body {
   font-family: $ubuntu;
   font-weight: normal;
 
@@ -15,4 +15,20 @@ body, #header, nav, #menu, #banner{
 
 footer {
     font-family: $space-mono;
+}
+.post-div {
+  font-family: $space-mono;
+  background-color: #cce6ff;
+  color: #4d1933;
+}
+.w3-td, .w3-th{
+  color: #4d1933;
+}
+footer{
+  background-color: #cce6ff;
+  color: #111;
+}
+
+.copy1{
+  color: #111;
 }

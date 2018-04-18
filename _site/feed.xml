@@ -1,29 +1,133 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-17T05:32:28+03:00</updated><id>http://localhost:4000/</id><title type="html">JRJ Cafe</title><subtitle>For Food and Coffee lovers alike. Welcome to JRJ Cafe's website.</subtitle><author><name>Arnel Imperial</name></author><entry><title type="html">Wine and Drinks</title><link href="http://localhost:4000/2018/04/16/wine.html" rel="alternate" type="text/html" title="Wine and Drinks" /><published>2018-04-16T00:00:00+03:00</published><updated>2018-04-16T00:00:00+03:00</updated><id>http://localhost:4000/2018/04/16/wine</id><content type="html" xml:base="http://localhost:4000/2018/04/16/wine.html">&lt;!--![test image](http://localhost:4000/assets/images/pic03.jpg)--&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-18T06:00:21+03:00</updated><id>http://localhost:4000/</id><title type="html">JRJ Cafe</title><subtitle>For Food and Coffee lovers alike. Welcome to JRJ Cafe's website.</subtitle><author><name>Arnel Imperial</name></author><entry><title type="html">Wine and Drinks</title><link href="http://localhost:4000/2018/04/16/wine.html" rel="alternate" type="text/html" title="Wine and Drinks" /><published>2018-04-16T00:00:00+03:00</published><updated>2018-04-16T00:00:00+03:00</updated><id>http://localhost:4000/2018/04/16/wine</id><content type="html" xml:base="http://localhost:4000/2018/04/16/wine.html">&lt;!--![test image](http://localhost:4000/assets/images/pic03.jpg)--&gt;
 
-&lt;p&gt;Menu                                                            Euro&lt;/p&gt;
+&lt;div class=&quot;w3-container&quot;&gt;
+  &lt;h2 class= &quot;wine-h2&quot;&gt;Wine&lt;/h2&gt;
 
-&lt;p&gt;Wine: &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;CAVA                                                            14 / 55&lt;br /&gt;
-Mestres, Spain &lt;br /&gt;&lt;/p&gt;
+  &lt;table class=&quot;w3-table w3-striped w3-white w3-hoverable w3-mobile w3-card-4&quot;&gt;
+    &lt;thead&gt;
+      &lt;tr class= &quot;w3-light-grey&quot;&gt;
+        &lt;th class=&quot;w3-th&quot;&gt;Brand&lt;/th&gt;
+        &lt;th class=&quot;w3-th&quot;&gt;Description&lt;/th&gt;
+        &lt;th class=&quot;w3-th&quot;&gt;In glass&lt;/th&gt;
 
-&lt;p&gt;BLANCO SECO                                                        14 / 65&lt;br /&gt;
-Tajinaste, Canary Islands &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;SÉMILLON                                                          10 / 45&lt;br /&gt;
-Mother Rock, South Africa&lt;/p&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tr&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Cava&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Merces, Spain&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;12&lt;/td&gt;
 
-&lt;p&gt;CHARDONNAY                                                            13 / 60 &lt;br /&gt;
-Domaine des Gandines, France&lt;/p&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class&quot;w3-td&quot;&gt;Blanco Seco&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Tajinaste, Canary Islands&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;14&lt;/td&gt;
 
-&lt;p&gt;PINOT NERO                                         14 / 65 &lt;br /&gt;
-Colterenzio, Italy&lt;/p&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class&quot;w3-td&quot;&gt;Semillon&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Mother Rock, South Africa&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;10&lt;/td&gt;
 
-&lt;p&gt;TINTO FINO                                                   13 / 60 &lt;br /&gt;
-Alfredo Maestro, Spain&lt;/p&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class&quot;w3-td&quot;&gt;Malbec&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;RJ Vinedos, Argentina&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;13&lt;/td&gt;
 
-&lt;p&gt;MALBEC                                                            13 / 60 &lt;br /&gt;
-RJ Viñedos, Argentina&lt;/p&gt;</content><author><name>Arnel Imperial</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/red-couple-night-romantic.jpg" /></entry><entry><title type="html">Vegetarian Menu</title><link href="http://localhost:4000/2018/04/16/vegetarian.html" rel="alternate" type="text/html" title="Vegetarian Menu" /><published>2018-04-16T00:00:00+03:00</published><updated>2018-04-16T00:00:00+03:00</updated><id>http://localhost:4000/2018/04/16/vegetarian</id><content type="html" xml:base="http://localhost:4000/2018/04/16/vegetarian.html">&lt;p&gt;Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class&quot;w3-td&quot;&gt;Pinot Nero&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Colterenzio, Italy&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;14&lt;/td&gt;
+
+    &lt;/tr&gt;
+
+
+  &lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&quot;w3-container&quot;&gt;
+  &lt;h2 class= &quot;wine-h2&quot;&gt;Refreshments&lt;/h2&gt;
+
+
+  &lt;table class=&quot;w3-table w3-striped w3-white w3-hoverable w3-mobile w3-card-4&quot;&gt;
+    &lt;thead&gt;
+      &lt;tr class= &quot;w3-light-grey&quot;&gt;
+        &lt;th class=&quot;w3-th&quot;&gt;Menu&lt;/th&gt;
+        &lt;th class=&quot;w3-th&quot;&gt;Description&lt;/th&gt;
+        &lt;th class=&quot;w3-th&quot;&gt;In glass&lt;/th&gt;
+
+
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tr&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;A Whole New World&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Mango, Champagne vinegar, jasmine&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;5&lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class&quot;w3-td&quot;&gt;Lemongrass Lemonade&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Lemongrass, chamomile, lemon&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;4&lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class&quot;w3-td&quot;&gt;Hot Tea&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Match super green, blueberry hibiscus, masala chai&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;3&lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class&quot;w3-td&quot;&gt;Filtered Coffee&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Regular&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;3&lt;/td&gt;
+
+    &lt;/tr&gt;
+    
+
+
+  &lt;/table&gt;
+&lt;/div&gt;</content><author><name>Arnel Imperial</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/red-couple-night-romantic.jpg" /></entry><entry><title type="html">Vegetarian Menu</title><link href="http://localhost:4000/2018/04/16/vegetarian.html" rel="alternate" type="text/html" title="Vegetarian Menu" /><published>2018-04-16T00:00:00+03:00</published><updated>2018-04-16T00:00:00+03:00</updated><id>http://localhost:4000/2018/04/16/vegetarian</id><content type="html" xml:base="http://localhost:4000/2018/04/16/vegetarian.html">&lt;div class=&quot;w3-container&quot;&gt;
+
+  &lt;p style= &quot;color: #fff;&quot;&gt;&lt;i&gt;*Vegetarian/Vegan dishes are available in &lt;strong&gt;Ala Carte only.&lt;/strong&gt;&lt;/i&gt;&lt;br&gt;
+  &lt;i&gt;*We advise our customers to tell the server if you have certain kind of food allergies.&lt;/i&gt;&lt;/p&gt;
+
+  &lt;table class=&quot;w3-table w3-striped w3-white w3-hoverable w3-mobile w3-card-4&quot;&gt;
+    &lt;thead&gt;
+      &lt;tr class= &quot;w3-light-grey&quot;&gt;
+        &lt;th class=&quot;w3-th&quot;&gt;Menu&lt;/th&gt;
+        &lt;th class=&quot;w3-th&quot;&gt;Description&lt;/th&gt;
+        &lt;th class=&quot;w3-th&quot;&gt;Per plate&lt;/th&gt;
+
+
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tr&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Cabbage Hot Pot&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Kale, kimchi, sesame fu, black vinegar, grilled cabbage, raw raddish, cilantro (For Sharing)&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;30&lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class&quot;w3-td&quot;&gt;West Indies Scramble&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Trinidadian chana stew, poha rice, crashed tofu, cilantro&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;12&lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class&quot;w3-td&quot;&gt;Carrot Asado&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Adobo BBQ, smoked black beans, curtido&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;12&lt;/td&gt;
+
+    &lt;/tr&gt;
+
+
+
+  &lt;/table&gt;
+&lt;/div&gt;</content><author><name>Arnel Imperial</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/vegetables-frying-pan-greens.jpg" /></entry><entry><title type="html">Lunch Buffet</title><link href="http://localhost:4000/2018/04/16/lunch.html" rel="alternate" type="text/html" title="Lunch Buffet" /><published>2018-04-16T00:00:00+03:00</published><updated>2018-04-16T00:00:00+03:00</updated><id>http://localhost:4000/2018/04/16/lunch</id><content type="html" xml:base="http://localhost:4000/2018/04/16/lunch.html">&lt;p&gt;Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
 Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat.
 Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris.
 Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.&lt;/p&gt;
@@ -37,58 +141,77 @@ Pellentesque aliquam maximus risus, vel sed vehicula.&lt;/p&gt;
 
 &lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
 Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit.
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.&lt;/p&gt;</content><author><name>Arnel Imperial</name></author><summary type="html">Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/vegetables-frying-pan-greens.jpg" /></entry><entry><title type="html">Lunch Buffet</title><link href="http://localhost:4000/2018/04/16/lunch.html" rel="alternate" type="text/html" title="Lunch Buffet" /><published>2018-04-16T00:00:00+03:00</published><updated>2018-04-16T00:00:00+03:00</updated><id>http://localhost:4000/2018/04/16/lunch</id><content type="html" xml:base="http://localhost:4000/2018/04/16/lunch.html">&lt;p&gt;Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat.
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris.
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.&lt;/p&gt;
+Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.&lt;/p&gt;</content><author><name>Arnel Imperial</name></author><summary type="html">Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/food-salad-dinner-eating.jpg" /></entry><entry><title type="html">GL (Gluten/Lactose) Free Diet</title><link href="http://localhost:4000/2018/04/16/gl.html" rel="alternate" type="text/html" title="GL (Gluten/Lactose) Free Diet" /><published>2018-04-16T00:00:00+03:00</published><updated>2018-04-16T00:00:00+03:00</updated><id>http://localhost:4000/2018/04/16/gl</id><content type="html" xml:base="http://localhost:4000/2018/04/16/gl.html">&lt;div class=&quot;w3-container&quot;&gt;
+  &lt;p style= &quot;color: #fff;&quot;&gt;&lt;i&gt;*Gluten/Lactose free dishes are available in &lt;strong&gt;Ala Carte only.&lt;/strong&gt;&lt;/i&gt;&lt;br&gt;
+  &lt;i&gt;*We advise to tell the server if you have certain kind of food allergies.&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis.
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum.
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus.
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
-Pellentesque aliquam maximus risus, vel sed vehicula.&lt;/p&gt;
 
-&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit.
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.&lt;/p&gt;</content><author><name>Arnel Imperial</name></author><summary type="html">Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/food-salad-dinner-eating.jpg" /></entry><entry><title type="html">GL (Gluten/Lactose) Free Diet</title><link href="http://localhost:4000/2018/04/16/gl.html" rel="alternate" type="text/html" title="GL (Gluten/Lactose) Free Diet" /><published>2018-04-16T00:00:00+03:00</published><updated>2018-04-16T00:00:00+03:00</updated><id>http://localhost:4000/2018/04/16/gl</id><content type="html" xml:base="http://localhost:4000/2018/04/16/gl.html">&lt;p&gt;Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat.
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris.
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.&lt;/p&gt;
+  &lt;table class=&quot;w3-table w3-striped w3-white w3-hoverable w3-mobile w3-card-4&quot;&gt;
+    &lt;thead&gt;
+      &lt;tr class= &quot;w3-light-grey&quot;&gt;
+        &lt;th class=&quot;w3-th&quot;&gt;Menu&lt;/th&gt;
+        &lt;th class=&quot;w3-th&quot;&gt;Description&lt;/th&gt;
+        &lt;th class=&quot;w3-th&quot;&gt;Per plate&lt;/th&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis.
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum.
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus.
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
-Pellentesque aliquam maximus risus, vel sed vehicula.&lt;/p&gt;
 
-&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit.
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.&lt;/p&gt;</content><author><name>Arnel Imperial</name></author><summary type="html">Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pexels-photo-566566.jpeg" /></entry><entry><title type="html">Baked products &amp;amp; Sandwiches</title><link href="http://localhost:4000/baked/products/and/sandwiches/update/2018/04/14/bakery.html" rel="alternate" type="text/html" title="Baked products &amp; Sandwiches" /><published>2018-04-14T02:51:34+03:00</published><updated>2018-04-14T02:51:34+03:00</updated><id>http://localhost:4000/baked/products/and/sandwiches/update/2018/04/14/bakery</id><content type="html" xml:base="http://localhost:4000/baked/products/and/sandwiches/update/2018/04/14/bakery.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tr&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Genoese&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Pasta in meat sauce&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;20&lt;/td&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class&quot;w3-td&quot;&gt;Cheese Stromboli&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Phillysteak with lactose-free cheese&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;15&lt;/td&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+    &lt;/tr&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+    &lt;tr&gt;
+      &lt;td class&quot;w3-td&quot;&gt;Mussels&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Guiness &amp; lemon, red, white or Fra Diavolo&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;13&lt;/td&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Arnel Imperial</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pexels-photo-298217.jpeg" /></entry><entry><title type="html">Coffee Menu</title><link href="http://localhost:4000/2018/04/14/coffee.html" rel="alternate" type="text/html" title="Coffee Menu" /><published>2018-04-14T00:00:00+03:00</published><updated>2018-04-14T00:00:00+03:00</updated><id>http://localhost:4000/2018/04/14/coffee</id><content type="html" xml:base="http://localhost:4000/2018/04/14/coffee.html">&lt;p&gt;Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat.
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris.
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.&lt;/p&gt;
+    &lt;/tr&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis.
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum.
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus.
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
-Pellentesque aliquam maximus risus, vel sed vehicula.&lt;/p&gt;
+  &lt;/table&gt;
+&lt;/div&gt;</content><author><name>Arnel Imperial</name></author><summary type="html">*Gluten/Lactose free dishes are available in Ala Carte only. *We advise to tell the server if you have certain kind of food allergies.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pexels-photo-566566.jpeg" /></entry><entry><title type="html">Sandwiches</title><link href="http://localhost:4000/baked/products/and/sandwiches/update/2018/04/14/bakery.html" rel="alternate" type="text/html" title="Sandwiches" /><published>2018-04-14T02:51:34+03:00</published><updated>2018-04-14T02:51:34+03:00</updated><id>http://localhost:4000/baked/products/and/sandwiches/update/2018/04/14/bakery</id><content type="html" xml:base="http://localhost:4000/baked/products/and/sandwiches/update/2018/04/14/bakery.html">&lt;div class=&quot;w3-container&quot;&gt;
+&lt;p style= &quot;color: #fff;&quot;&gt;&lt;i&gt;*Gluten free bread available for sandwiches is Potato bun only.&lt;/i&gt;&lt;/p&gt;
+  &lt;table class=&quot;w3-table w3-striped w3-white w3-hoverable w3-mobile w3-card-4&quot;&gt;
+    &lt;thead&gt;
+      &lt;tr class= &quot;w3-light-grey&quot;&gt;
+        &lt;th class=&quot;w3-th&quot;&gt;Menu&lt;/th&gt;
+        &lt;th class=&quot;w3-th&quot;&gt;Description&lt;/th&gt;
+        &lt;th class=&quot;w3-th&quot;&gt;Price&lt;/th&gt;
 
-&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit.
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.&lt;/p&gt;</content><author><name>Arnel Imperial</name></author><summary type="html">Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pexels-photo-705676.jpeg" /></entry></feed>
+
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tr&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Ham, Egg &amp; Chips&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Slow cooked ham hock, fried egg, shoestring fries, picallili, malt vinegar mayo&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;8.50&lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class&quot;w3-td&quot;&gt;BJ Benton&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Spiced Fritter, beetroot borani, labneh, sweet herbs, sumac, pickled pepper&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;8.50&lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class&quot;w3-td&quot;&gt;Mangold&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;Grilled brisket blend, melted cheddar, arugula, gruyere, potato bun&lt;/td&gt;
+      &lt;td class=&quot;w3-td&quot;&gt;10&lt;/td&gt;
+
+    &lt;/tr&gt;
+
+  &lt;/table&gt;
+&lt;/div&gt;</content><author><name>Arnel Imperial</name></author><summary type="html">*Gluten free bread available for sandwiches is Potato bun only. Menu Description Price</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pexels-photo-933655.jpeg" /></entry><entry><title type="html">Coffee Menu</title><link href="http://localhost:4000/2018/04/14/coffee.html" rel="alternate" type="text/html" title="Coffee Menu" /><published>2018-04-14T00:00:00+03:00</published><updated>2018-04-14T00:00:00+03:00</updated><id>http://localhost:4000/2018/04/14/coffee</id><content type="html" xml:base="http://localhost:4000/2018/04/14/coffee.html">&lt;p&gt;We brew the best coffee we can find from roasters we trust, tea from farms smaller than 15 acres and cook delicious brunches based on sourdough bread, organic eggs, seasonal fruit + vegetables.&lt;/p&gt;
+
+&lt;p&gt;We like to experiment and make as much as we can in house and whatever we can’t make comes from producers that aren’t based too far away.&lt;/p&gt;
+
+&lt;p&gt;Our counter is always stocked with cakes and cookies.
+With a bit of notice we can bake things to order. Just send us an email.&lt;/p&gt;</content><author><name>Arnel Imperial</name></author><summary type="html">We brew the best coffee we can find from roasters we trust, tea from farms smaller than 15 acres and cook delicious brunches based on sourdough bread, organic eggs, seasonal fruit + vegetables.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pexels-photo-705676.jpeg" /></entry></feed>
