@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page2
 title: Our Team
 description: Meet our fabolous team of Chefs and Servers
 image: assets/images/KID_TEAM_CHEFS_final_L.jpg

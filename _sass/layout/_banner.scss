@@ -24,12 +24,12 @@
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('transition-delay', '0.75s');
 			@include vendor('pointer-events', 'none');
-			background-color: _palette(bg); /* banner background*/
+			background-color: #4d88ff; /* banner background _palette(bg) #ffd1b3*/
 			content: '';
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.6; /* opacity of the banner*/
+			opacity: 0.3; /* opacity of the banner*/
 			position: absolute;
 			top: 0;
 			width: 100%;

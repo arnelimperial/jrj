@@ -15,6 +15,7 @@ body {
 
 footer {
     font-family: $space-mono;
+
 }
 .post-div {
   font-family: $space-mono;
@@ -24,10 +25,7 @@ footer {
 .w3-td, .w3-th{
   color: #4d1933;
 }
-footer{
-  background-color: #cce6ff;
-  color: #111;
-}
+
 
 .copy1{
   color: #111;
@@ -48,4 +46,9 @@ footer{
 
 .bold-p{
   font-weight: bold;
+}
+.w3-for-page12{
+  background-color: #cce6ff;
+  color: #4d88ff;
+  
 }

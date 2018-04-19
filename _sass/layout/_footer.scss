@@ -5,16 +5,22 @@
 ///
 
 /* Footer */
+footer{
+		background: _palette(bg); //_palette(bg);#4d88ff
+		color: #fff;
 
+}
 	#footer {
 		.copyright {
 			font-size: 0.8em;
 			list-style: none;
 			padding-left: 0;
+		//	background: _pallete(bg);
+
 
 			li {
 				border-left: solid 1px _palette(border);
-				color: #858585 ; //_palette(fg-light)
+				color: #828282 ; //_palette(fg-light)
 				display: inline-block;
 				line-height: 1;
 				margin-left: 1em;

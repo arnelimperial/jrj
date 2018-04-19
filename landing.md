@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>In the Nutshell</h2>
 		</header>
-		<p>Please take a look to our mouth tasting and succulent menu offerings for your satisfaction.</p>
+		<p>Here you can find the essential contents of our website.</p>
 	</div>
 </section>
 
@@ -30,9 +30,9 @@ nav-menu: true
 				<header class="major">
 					<h3>About JRJ Cafe</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>(Dummy Text!)<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </p>
 				<ul class="actions">
-					<li><a href="about.html" class="button">About Us</a></li>
+					<li><a href="about.html" class="button">Read About Us</a></li>
 				</ul>
 			</div>
 		</div>
@@ -46,7 +46,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Our Menu</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>(Dummy text!)<br>
+				Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
 					<li><a href="all_posts.html" class="button">Browse All Menu</a></li>
 				</ul>
@@ -62,7 +63,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Our Team</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>(Dummy text!)<br>
+				Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Meet Our Fabolous Team</a></li>
 				</ul>
